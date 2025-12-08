@@ -31,6 +31,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -137,11 +138,8 @@ Publish the website in the LocalHost.
 
 ```
 
-
-
-
-
 ## OUTPUT:
+
 <img width="813" height="632" alt="Screenshot 2025-12-08 081008" src="https://github.com/user-attachments/assets/9cabe588-2f74-414f-a927-88c4f4c004f4" />
 
 
