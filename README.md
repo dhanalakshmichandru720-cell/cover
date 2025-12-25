@@ -104,7 +104,7 @@ Publish the website in the LocalHost.
     </div>
 
     <div class="booktitle">
-        <h1>WEB Development: The Complete Reference</h1>
+        <h1>WEB Development: HTML&CSS : DESIGN AND BUILD WEBSITES</h1>
     </div>
 
     <div class="subtitle">
